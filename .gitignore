@@ -1,0 +1,12 @@
+node_modules/
+frontend/node_modules/
+backend/node_modules/
+frontend/build/
+frontend/dist/
+.env
+.env.*
+!.env.example
+backend/.env
+backend/atlas-credentials.env
+npm-debug.log*
+.DS_Store
